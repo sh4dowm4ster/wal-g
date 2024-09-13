@@ -1,2 +1,4 @@
 # wal-g
-Oracle Linux builds of WAL-G for PostgreSQL
+Oracle Linux unofficial builds of WAL-G for PostgreSQL
+https://github.com/wal-g/wal-g
+Built with brotli and libsodium support.
